@@ -1,4 +1,4 @@
 // GLOBAL - imports from npm
 import styled from 'styled-components';
 
-export const FooterContainer = styled.div``;
+export const Page404Container = styled.div``;

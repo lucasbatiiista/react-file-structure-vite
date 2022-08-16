@@ -1,3 +1,4 @@
+// GLOBAL - imports from npm
 import Footer from './Footer';
 
 export default {

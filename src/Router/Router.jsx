@@ -12,7 +12,7 @@ import Product from '../pages/Product';
 import Page404 from '../pages/Page404';
 
 export default function Router() {
-    const [auth] = useState(true);
+    const [auth] = useState(false);
 
     return (
         <Routes>

@@ -1,3 +1,4 @@
+// GLOBAL - imports from npm
 import Header from './Header';
 
 export default {
